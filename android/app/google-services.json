@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "932221425223",
+    "project_id": "gdg-conf-29489",
+    "storage_bucket": "gdg-conf-29489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932221425223:android:0b7c7265abb5ee84d00362",
+        "android_client_info": {
+          "package_name": "com.ntech_services.chat_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932221425223-c5i7ahnknc258bm7a394li26j27lj91l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ntech_services.chat_firebase",
+            "certificate_hash": "79ffdf6c42abf227047ce04da6d5d7b0781a8a84"
+          }
+        },
+        {
+          "client_id": "932221425223-p2vck12o40g1v0721027s7tu3v6akr6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1fLd7PlSYGx-QnPfXDeXOFU4XABgZ_Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932221425223-p2vck12o40g1v0721027s7tu3v6akr6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
